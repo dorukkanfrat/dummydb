@@ -1,0 +1,19 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "brand_name": "Nike",
+      "logo": "https://dummyimage.com/320x200/041419/fff/&text=Nike"
+    },
+    {
+      "id": 2,
+      "brand_name": "Adidas",
+      "logo": "https://dummyimage.com/320x200/041419/fff/&text=Adidas"
+    },
+    {
+      "id": 3,
+      "brand_name": "Puma",
+      "logo": "https://dummyimage.com/320x200/041419/fff/&text=Puma"
+    }
+  ]
+}
