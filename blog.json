@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Introduction to JavaScript",
+      "description": "Learn the basics of JavaScript, the most popular programming language for web development.",
+      "image": "https://dummyimage.com/320x320/041419/fff/&text=JavaScript+Intro"
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with React",
+      "description": "This guide will help you understand the basics of React and how to create your first application.",
+      "image": "https://dummyimage.com/320x320/041419/fff/&text=React+Guide"
+    },
+    {
+      "id": 3,
+      "title": "CSS Flexbox Tutorial",
+      "description": "A detailed tutorial on how to use CSS Flexbox to create responsive layouts.",
+      "image": "https://dummyimage.com/320x320/041419/fff/&text=Flexbox+Tutorial"
+    },
+    {
+      "id": 4,
+      "title": "Next Js Learn",
+      "description": "I want to easy learn Next.js",
+      "image": "https://dummyimage.com/320x320/041419/fff/&text=Flexbox+Tutorial"
+    }
+  ]
+}
